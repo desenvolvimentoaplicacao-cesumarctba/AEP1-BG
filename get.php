@@ -11,7 +11,6 @@
             //echo "$nome tem $idade anos";
             //var_dump($_GET);
         ?>
-        <a href="get.html">Voltar</a>
     </div>
 </body>
 </html>
